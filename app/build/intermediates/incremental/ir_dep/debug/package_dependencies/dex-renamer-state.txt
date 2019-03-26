@@ -1,0 +1,4 @@
+#Mon Mar 11 11:02:01 EAT 2019
+base.0=/home/shimuli/Music/Project/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

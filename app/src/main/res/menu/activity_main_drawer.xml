@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+                android:id="@+id/nav_home"
+                android:icon="@drawable/home"
+                android:title="Home"/>
+        <item
+                android:id="@+id/nav_breakfast"
+                android:icon="@drawable/breakfast"
+                android:title="Breakfast"/>
+        <item
+                android:id="@+id/nav_lunch"
+                android:icon="@drawable/lunch"
+                android:title="Lunch"/>
+        <item
+                android:id="@+id/nav_dinner"
+                android:icon="@drawable/dinner"
+                android:title="Dinner"/>
+        <item
+                android:id="@+id/nav_fast_food"
+                android:icon="@drawable/fast_food"
+                android:title="Fast Food"/>
+
+        <item
+                android:id="@+id/nav_beverages"
+                android:icon="@drawable/bev"
+                android:title="Beverages"/>
+
+        <item
+                android:id="@+id/nav_drinks"
+                android:icon="@drawable/drinks"
+                android:title="Drinks"/>
+
+    </group>
+
+    <item android:title="MORE">
+        <menu>
+            <item
+                    android:id="@+id/nav_version"
+                    android:title="App version"/>
+            <item
+                    android:id="@+id/nav_faq"
+                    android:title="Faq"/>
+
+            <item
+                    android:id="@+id/nav_terms"
+                    android:title="Terms and Conditions"/>
+
+        </menu>
+    </item>
+
+            <item android:title="RATE AND SHARE">
+                <menu>
+                    <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Share"/>
+
+                    <item
+                            android:id="@+id/nav_rate"
+                            android:icon="@drawable/rate"
+                            android:title="Rate"/>
+
+
+
+                </menu>
+    </item>
+
+</menu>

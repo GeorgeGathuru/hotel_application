@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e4e997162421272f0345ade773d8ed6a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5c1861a0a6a09fea75cedce69774c02b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/4fc9521836c824baf0fb6bcd677622a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shimuli/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fa5d51bac0a2a101cc1faf0425d8fee7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d5f8200ec30e1a001286a2431b8f7480/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/284017405fbf70fb668ca2d8ced15401/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/ceef6ef128f9b7e97b22bb1c630bb5ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/baf466c352c35f93a3e3c932afa5f178/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/30613cf3e0c00cacfe29b4cd2e3bcf04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/10fccb050a179fc1e49567f0626cd0ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/a373b8940789efb81f49009c70d01a4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/227cba58570d443f04b818db0d9cb23e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1360eb5f5c06e742db14b0eef61b55bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/dcfe6b75bcd862ba7d08f4365c037901/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6b3670150bdc20715f881fce09423702/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7f99fbb328a1a993d38ace4ad22629fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2d60e92af6e6b0a3f8b52856070b3744/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/038f98a853fedc855324f09f6b5073fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/74a402df75d5337ca15382efa95b0666/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/18307c9be763d829f6b987c282b2a57c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1d0caa4e7174ca2e2e8d9661d4b973f8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2d3717ae693424632bb2540fb682f94e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/82b0a4e644e4231c89e2ef171f3f580a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/25c57f9d0c0c38a0879cb27de75dcfbc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/shimuli/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/823add21faa5179eb51c1d5af0731b1f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/682909ff55c955e9c5707d0bf0ce0191/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c5f7419ddd8867a0f77a1a031fd1e82d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ce3c8eee480e750f9f579395a3456595/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/shimuli/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f1e0e809fcde8769420961388175f6d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/15c3e8a79a3731609e9d32d11f55216d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/shimuli/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/321eb66698cb75529fd326f35bd88f40/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/shimuli/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/32582625b2637e6b6221758ab6bd795f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/shimuli/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e411b58efcb613125d4d126d58602be0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:3:11-40
+		INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e4e997162421272f0345ade773d8ed6a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e4e997162421272f0345ade773d8ed6a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shimuli/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fa5d51bac0a2a101cc1faf0425d8fee7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shimuli/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fa5d51bac0a2a101cc1faf0425d8fee7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1d0caa4e7174ca2e2e8d9661d4b973f8/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1d0caa4e7174ca2e2e8d9661d4b973f8/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2d3717ae693424632bb2540fb682f94e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2d3717ae693424632bb2540fb682f94e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1d0caa4e7174ca2e2e8d9661d4b973f8/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.example.project.MainActivity
+ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:14:17-49
+	android:theme
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:15:17-60
+	android:name
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:13:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
+INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e4e997162421272f0345ade773d8ed6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e4e997162421272f0345ade773d8ed6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5c1861a0a6a09fea75cedce69774c02b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5c1861a0a6a09fea75cedce69774c02b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/4fc9521836c824baf0fb6bcd677622a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/4fc9521836c824baf0fb6bcd677622a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shimuli/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fa5d51bac0a2a101cc1faf0425d8fee7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shimuli/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fa5d51bac0a2a101cc1faf0425d8fee7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d5f8200ec30e1a001286a2431b8f7480/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d5f8200ec30e1a001286a2431b8f7480/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/284017405fbf70fb668ca2d8ced15401/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/284017405fbf70fb668ca2d8ced15401/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/ceef6ef128f9b7e97b22bb1c630bb5ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/ceef6ef128f9b7e97b22bb1c630bb5ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/baf466c352c35f93a3e3c932afa5f178/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/baf466c352c35f93a3e3c932afa5f178/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/30613cf3e0c00cacfe29b4cd2e3bcf04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/30613cf3e0c00cacfe29b4cd2e3bcf04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/10fccb050a179fc1e49567f0626cd0ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/10fccb050a179fc1e49567f0626cd0ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/a373b8940789efb81f49009c70d01a4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/a373b8940789efb81f49009c70d01a4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/227cba58570d443f04b818db0d9cb23e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/227cba58570d443f04b818db0d9cb23e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1360eb5f5c06e742db14b0eef61b55bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1360eb5f5c06e742db14b0eef61b55bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/dcfe6b75bcd862ba7d08f4365c037901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/dcfe6b75bcd862ba7d08f4365c037901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6b3670150bdc20715f881fce09423702/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6b3670150bdc20715f881fce09423702/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7f99fbb328a1a993d38ace4ad22629fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7f99fbb328a1a993d38ace4ad22629fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2d60e92af6e6b0a3f8b52856070b3744/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2d60e92af6e6b0a3f8b52856070b3744/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/038f98a853fedc855324f09f6b5073fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/038f98a853fedc855324f09f6b5073fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/74a402df75d5337ca15382efa95b0666/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/74a402df75d5337ca15382efa95b0666/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/18307c9be763d829f6b987c282b2a57c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/18307c9be763d829f6b987c282b2a57c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1d0caa4e7174ca2e2e8d9661d4b973f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1d0caa4e7174ca2e2e8d9661d4b973f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2d3717ae693424632bb2540fb682f94e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2d3717ae693424632bb2540fb682f94e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/82b0a4e644e4231c89e2ef171f3f580a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/82b0a4e644e4231c89e2ef171f3f580a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/25c57f9d0c0c38a0879cb27de75dcfbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/25c57f9d0c0c38a0879cb27de75dcfbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/shimuli/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/823add21faa5179eb51c1d5af0731b1f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/shimuli/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/823add21faa5179eb51c1d5af0731b1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/682909ff55c955e9c5707d0bf0ce0191/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/682909ff55c955e9c5707d0bf0ce0191/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c5f7419ddd8867a0f77a1a031fd1e82d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c5f7419ddd8867a0f77a1a031fd1e82d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ce3c8eee480e750f9f579395a3456595/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ce3c8eee480e750f9f579395a3456595/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/shimuli/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f1e0e809fcde8769420961388175f6d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/shimuli/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f1e0e809fcde8769420961388175f6d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/15c3e8a79a3731609e9d32d11f55216d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/shimuli/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/15c3e8a79a3731609e9d32d11f55216d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/shimuli/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/321eb66698cb75529fd326f35bd88f40/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/shimuli/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/321eb66698cb75529fd326f35bd88f40/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/shimuli/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/32582625b2637e6b6221758ab6bd795f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/shimuli/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/32582625b2637e6b6221758ab6bd795f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/shimuli/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e411b58efcb613125d4d126d58602be0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/shimuli/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e411b58efcb613125d4d126d58602be0/AndroidManifest.xml:20:5-44
+INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
+INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
+		ADDED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shimuli/Music/Project/app/src/main/AndroidManifest.xml
